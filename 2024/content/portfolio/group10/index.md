@@ -21,7 +21,7 @@ Sistema de Gestão de Resíduos de Mineração / Sistema de gestión de residuos
 
 
 
-🇨🇱 Uma aplicação web para gerir resíduos gerados nas operações de mineração. Ela permitirá que os usuários registrem, editem e deletam dados relacionados a resíduos e localizações. Os resíduos podem incluir informações como o tipo (perigoso ou não perigoso), quantidade, data de geração, método de disposição final e seu estado (pendente, em processo ou concluído). O sistema também possui uma funcionalidade de autenticação simples para garantir segurança no acesso. O objetivo principal da aplicação é apoiar mineradores na gestão eficiente de resíduos, facilitando o controle sobre a quantidade e o destino dos resíduos gerados durante o processo de mineração. Além disso, a aplicação oferece a possibilidade de gerenciar a localização onde os resíduos estão armazenados ou dispostos, tanto quanto adicionar novas localizações com um leaflet integrado ou as editar.
+🇨🇱 Una aplicación web para eliminar residuos generados en operaciones de minería. Ela permitirá que los usuarios registren, editen y eliminen datos relacionados a residuos y localizaciones. Los residuos pueden incluir información como el tipo (perigoso o não perigoso), cantidad, datos de gestión, método de disposición final y su estado (pendente, en proceso o conclusión). El sistema también ofrece una funcionalidad de autenticación sencilla para garantizar la seguridad del acceso. El objetivo principal de la aplicación es ayudar a los mineros a gestionar eficientemente los residuos, facilitando el control sobre la cantidad y el destino de los residuos generados durante el proceso de minería. Además, esta aplicación ofrece la posibilidad de gerenciar la localización de los residuos que están armados o dispuestos, tanto para agregar nuevas localizaciones con un folleto integrado como para editarlo.
 
 Apresentação / presentación: preencha aqui o link para slides da apresentação final do projeto
 
@@ -44,6 +44,7 @@ preencha aqui o link para o roteiro de testes (segunda fase)
 - Front-end: HTML, CSS, JavaScript, Leaflet.
 - Back-end: Python com Django, integração com banco de dados remoto utilizando MYSQL.connector, MySQL.
 - Deploy: AWS (para o back-end) e Koyeb (para o front-end).
+- Apliacion movil: Flutter, conectado a base de datos mysql
 
 ##### Repositórios
 
