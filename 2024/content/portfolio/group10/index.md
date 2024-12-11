@@ -44,6 +44,7 @@ preencha aqui o link para o roteiro de testes (segunda fase)
 - Front-end: HTML, CSS, JavaScript, Leaflet.
 - Back-end: Python com Django, integração com banco de dados remoto utilizando MYSQL.connector, MySQL.
 - Deploy: AWS (para o back-end) e Koyeb (para o front-end).
+- Aplicacion Movil: Flutter, conectado a base datos en mysql con aws
 
 ##### Repositórios
 
